@@ -9,12 +9,9 @@
 
 
 ### Connect with me:
+[<img align="left" alt="alexsmirnov601 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />] [Telegram]
 
-[<img align="left" alt="alexsmirnov601" | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
-[<img align="left" alt="alexsmirnov601" | Telegram" width="22px" src:="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />] [Telegram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -39,6 +36,4 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexsmirnov601&show_icons=true" />
 </details>
 
- 
-[vk]: https://vk.com/alexsmirnov601
 [Telegram]: https://t.me/alexsmirnov601
