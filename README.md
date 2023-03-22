@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=alexsmirnov601)
 
 ## I'm a Junior Frontend Developer
-- 💪 I like to write code
-- 🎉 I like playing chess and working out 
-- 🥅 I am constantly learning new things
+- 👨‍💻 I like to write code
+- 🏋️ I like playing chess and working out 
+- 📚 I am constantly learning new things
 
 
 ### Connect with me:
